@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+kaggle.json
+*.keras
+*.zip
+raw/
+train/
+val/
